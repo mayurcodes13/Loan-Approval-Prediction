@@ -24,9 +24,9 @@ The dataset comprises 10,000 loan applications with various attributes such as A
 # Model Development
 A machine learning model was developed to predict loan approval with the following key metrics:
 
-* ### Accuracy:### 85%
-* ### Precision:### 90%
-* ### Recall:### 80%
+* ### Accuracy: 85%
+* ### Precision: 90%
+* ### Recall: 80%
 The model was trained, tested, and validated on the dataset, ensuring robust performance and reliability.
 
 # Results
