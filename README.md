@@ -14,7 +14,7 @@ The dataset comprises 10,000 loan applications with various attributes such as A
 
 # Features Engineered
 
-5 key features were engineered to improve the model's predictive performance, including:
+4 key features were engineered to improve the model's predictive performance, including:
 
 * Applicant's Income to Loan Amount Ratio
 * Total Income (Applicant and Coapplicant)
